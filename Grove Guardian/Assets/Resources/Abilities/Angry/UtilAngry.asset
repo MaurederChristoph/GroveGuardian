@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34762a42bf08c5e4f8b0e3cb58183eaf, type: 3}
+  m_Name: UtilAngry
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: sdSA
+  <Description>k__BackingField: asdD
+  <Icon>k__BackingField: {fileID: 21300000, guid: a8a91a3fd87ffc64f98363457748ff0d,
+    type: 3}
+  <Cooldown>k__BackingField: 3
+  <Slot>k__BackingField: 0
+  <SoundName>k__BackingField: 0
+  <AnimationName>k__BackingField: 
+  Mood: 2
+  _fireSpawnObject: {fileID: 5297719467392979968, guid: 3d50affdf70cb084b85a602a3e41ca70,
+    type: 3}
+  _fire: {fileID: 6998523923684191204, guid: 9f4654302d0032449ad1904826a28d39, type: 3}
+  _damage: 4
+  _damageType: 0
+  _speed: 15
+  _range: 3
+  _trailAmount: 0
+  _duration: 0

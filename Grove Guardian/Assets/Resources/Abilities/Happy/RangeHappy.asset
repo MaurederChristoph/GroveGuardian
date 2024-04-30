@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f88278ec77e41e743aeaeb534a55bbb0, type: 3}
+  m_Name: RangeHappy
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: 
+  <Description>k__BackingField: 
+  <Icon>k__BackingField: {fileID: 21300000, guid: 3afda47a98b95744ab891030bcd83ef0,
+    type: 3}
+  <Cooldown>k__BackingField: 5
+  <Slot>k__BackingField: 0
+  <SoundName>k__BackingField: 20
+  <AnimationName>k__BackingField: IsCastingRay
+  Mood: 0
+  _length: 30
+  _duration: 4
+  _damage: 20
+  _damageType: 0
+  _ray: {fileID: 1216587323687259708, guid: 30f823f08c3d55a4d94590b3d86a0a6f, type: 3}

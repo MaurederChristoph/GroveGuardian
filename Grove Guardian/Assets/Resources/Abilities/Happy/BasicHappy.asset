@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec4dfc09b82488d45b165949fb47d1db, type: 3}
+  m_Name: BasicHappy
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Happy Ray
+  <Description>k__BackingField: tesdfasdf
+  <Icon>k__BackingField: {fileID: 21300000, guid: 4303a92e809f8b3429cdbdaa9419d0c6,
+    type: 3}
+  <Cooldown>k__BackingField: 0.5
+  <Slot>k__BackingField: 3
+  <SoundName>k__BackingField: 22
+  <AnimationName>k__BackingField: isBasicAttacking
+  Mood: 0
+  _bulletPrefab: {fileID: 6570033052814066599, guid: 6f02dfdf145750e44b2aab1bd5017538,
+    type: 3}
+  _bulletHitMissDistance: 100
+  _damage: 30
+  _damageType: 0
+  _speed: 40
+  _controller: {fileID: 0}
